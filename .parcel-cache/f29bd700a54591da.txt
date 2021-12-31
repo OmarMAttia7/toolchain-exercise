@@ -1,10 +1,13 @@
-26730
+26738
 67/home/hazel/webdev/projects/toolchain/will-it-miss/.prettierrc.json1640972852567716000 0
 74/home/hazel/webdev/projects/toolchain/will-it-miss/dist/index.710e9678.css1640974814687716000 0
 78/home/hazel/webdev/projects/toolchain/will-it-miss/dist/asteriod2.c1ac1a41.svg1640974814607716000 0
+73/home/hazel/webdev/projects/toolchain/will-it-miss/dist/index.05320dc0.js1640975690337716000 0
+77/home/hazel/webdev/projects/toolchain/will-it-miss/dist/index.05320dc0.js.map1640975690347716000 0
 78/home/hazel/webdev/projects/toolchain/will-it-miss/dist/asteriod1.786b20cb.svg1640974814477716000 0
 71/home/hazel/webdev/projects/toolchain/will-it-miss/dist/bg.a9ce958a.svg1640974814477716000 0
-63/home/hazel/webdev/projects/toolchain/will-it-miss/package.json1640975512897716000 0
+78/home/hazel/webdev/projects/toolchain/will-it-miss/dist/asteriod2.e1d11ddc.svg1640975690267716000 0
+63/home/hazel/webdev/projects/toolchain/will-it-miss/package.json1640975681277716000 0
 72/home/hazel/webdev/projects/toolchain/will-it-miss/src/img/asteriod1.svg1603987875000000000 0
 58/home/hazel/webdev/projects/toolchain/will-it-miss/src/img1640972605767716000 1
 75/home/hazel/webdev/projects/toolchain/will-it-miss/src/components/Hazard.js1603987875000000000 0
@@ -12,7 +15,7 @@
 65/home/hazel/webdev/projects/toolchain/will-it-miss/src/components1640972605647716000 1
 63/home/hazel/webdev/projects/toolchain/will-it-miss/src/index.js1603987875000000000 0
 64/home/hazel/webdev/projects/toolchain/will-it-miss/src/index.css1640974619827716000 0
-54/home/hazel/webdev/projects/toolchain/will-it-miss/src1640974619837716000 1
+54/home/hazel/webdev/projects/toolchain/will-it-miss/src1640977151407716000 1
 86/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/resolve-from/readme.md1640972719777716000 0
 85/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/resolve-from/index.js1640972719677716000 0
 76/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/resolve-from1640972719737716000 1
@@ -1357,6 +1360,7 @@
 112/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/core-js/features/string/virtual/code-point-at.js1640974134857716000 0
 108/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/core-js/features/string/virtual/trim-left.js1640974136037716000 0
 107/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/core-js/features/string/virtual/includes.js1640974135647716000 0
+71/home/hazel/webdev/projects/toolchain/will-it-miss/dist/bg.fff7b49d.svg1640975688337716000 0
 108/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/core-js/features/string/virtual/match-all.js1640974135807716000 0
 103/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/core-js/features/string/virtual/link.js1640974135787716000 0
 101/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/core-js/features/string/virtual/at.js1640974134707716000 0
@@ -2913,6 +2917,7 @@
 86/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/ajv/lib/dotjs/oneOf.js1640972721257716000 0
 87/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/ajv/lib/dotjs/format.js1640972721177716000 0
 93/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/ajv/lib/dotjs/dependencies.js1640972721157716000 0
+78/home/hazel/webdev/projects/toolchain/will-it-miss/dist/index.9b75a965.css.map1640975690337716000 0
 89/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/xmlchars/xmlns/1.0/ed3.js1640974132997716000 0
 91/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/ajv/lib/dotjs/properties.js1640972721267716000 0
 89/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/ajv/lib/dotjs/contains.js1640972721137716000 0
@@ -4203,6 +4208,7 @@
 103/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/esm/locale/zh-TW/index.js.flow1640974745987716000 0
 99/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/eslint/lib/rules/no-class-assign.js1640972721517716000 0
 89/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/esm/locale/zh-TW1640974751517716000 1
+74/home/hazel/webdev/projects/toolchain/will-it-miss/dist/stars.6374224d.svg1640975690267716000 0
 100/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/esm/subMinutes/package.json1640974750047716000 0
 101/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/esm/nextSunday/index.js.flow1640974745997716000 0
 85/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/esm/getMonth1640974751347716000 1
@@ -7272,6 +7278,7 @@
 102/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/jsx-ast-utils/lib/values/JSXElement.js1640973158767716000 0
 107/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/es-abstract/2021/SymbolDescriptiveString.js1640973159167716000 0
 98/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/locale/nl/_lib/formatLong1640974748727716000 1
+74/home/hazel/webdev/projects/toolchain/will-it-miss/dist/index.9b75a965.css1640975690337716000 0
 118/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/@parcel/package-manager/src/validateModuleSpecifier.js1640974134437716000 0
 91/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/es-abstract/2015/ToUint8.js1640973159267716000 0
 83/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/tweetnacl/README.md1640974132697716000 0
@@ -7832,6 +7839,7 @@
 81/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/@parcel/utils/lib1640974134527716000 1
 90/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/@parcel/utils/.eslintrc.js1640974132777716000 0
 132/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/ansi-escapes/node_modules/type-fest/source/require-at-least-one.d.ts1640974134067716000 0
+78/home/hazel/webdev/projects/toolchain/will-it-miss/dist/asteriod1.cf07862c.svg1640975688337716000 0
 108/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/core-js/internals/document-create-element.js1640974135057716000 0
 126/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/@parcel/source-map/parcel_sourcemap_wasm/dist-web/package.json1640974134087716000 0
 93/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/@parcel/utils/src/throttle.js1640974134527716000 0
@@ -16908,7 +16916,7 @@
 114/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/esm/fp/formatISOWithOptions/index.js.flow1640974745707716000 0
 103/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/fp/hoursToMinutes/package.json1640974750257716000 0
 98/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/@parcel/markdown-ansi/package.json1640974133127716000 0
-65/home/hazel/webdev/projects/toolchain/will-it-miss/src/index.html1640974517477716000 0
+65/home/hazel/webdev/projects/toolchain/will-it-miss/src/index.html1640977151407716000 0
 113/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/core-js/modules/esnext.function.is-constructor.js1640974135357716000 0
 101/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/esm/fp/nextSunday/index.d.ts1640974751247716000 0
 89/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/@parcel/fs/lib/types.d.ts1640974133847716000 0
@@ -19639,7 +19647,7 @@
 104/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/uri-js/dist/esnext/schemes/mailto.js.map1640972720977716000 0
 92/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/esm/locale/types.js1640974749157716000 0
 101/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/startOfQuarter/index.js.flow1640974746447716000 0
-66/home/hazel/webdev/projects/toolchain/will-it-miss/dist/index.html1640974814607716000 0
+66/home/hazel/webdev/projects/toolchain/will-it-miss/dist/index.html1640977222347716000 0
 86/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/isSameQuarter1640974752127716000 1
 132/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/postcss-modules-extract-imports/node_modules/postcss/docs/guidelines1640974133627716000 1
 84/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/flatted/esm/index.js1640972720807716000 0
@@ -22672,7 +22680,7 @@
 82/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/locale/cs1640974752197716000 1
 107/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/esm/millisecondsToMinutes/index.js1640974747557716000 0
 85/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/lodash/fp/overArgs.js1640974135397716000 0
-55/home/hazel/webdev/projects/toolchain/will-it-miss/dist1640974814787716000 1
+55/home/hazel/webdev/projects/toolchain/will-it-miss/dist1640977222347716000 1
 87/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/lodash/fp/curryRight.js1640974135067716000 0
 99/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/date-fns/esm/formatRFC7231/index.js1640974746617716000 0
 90/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/lodash/fp/_falseOptions.js1640974134757716000 0
@@ -26440,7 +26448,7 @@
 112/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/jsdom/lib/jsdom/living/svg/SVGStringList-impl.js1640974135287716000 0
 114/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/jsdom/lib/jsdom/living/generated/HTMLPreElement.js1640974134887716000 0
 117/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/jsdom/lib/jsdom/living/generated/PopStateEventInit.js1640974135007716000 0
-50/home/hazel/webdev/projects/toolchain/will-it-miss1640975512897716000 1
+50/home/hazel/webdev/projects/toolchain/will-it-miss1640975681277716000 1
 112/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/jsdom/lib/jsdom/living/generated/MessageEvent.js1640974134957716000 0
 119/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/@parcel/transformer-js/node_modules/semver/package.json1640974269507716000 0
 113/home/hazel/webdev/projects/toolchain/will-it-miss/node_modules/jsdom/lib/jsdom/living/generated/TextTrackKind.js1640974135057716000 0
